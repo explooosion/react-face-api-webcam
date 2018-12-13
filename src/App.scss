@@ -1,0 +1,46 @@
+@import './scss/color';
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.face {
+  position: relative;
+
+  .state {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: .5rem;
+    width: 150px;
+    background-color: $primary;
+
+    span {
+      display: block;
+      margin: 0;
+      color: #ff0;
+    }
+  }
+
+  .control {
+    position: absolute;
+    top: 3rem;
+    left: 0;
+    padding: .4rem .5rem;
+    width: 150px;
+    background-color: #000;
+    user-select: none;
+    color: #ff0;
+  }
+
+  #overlay,
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}

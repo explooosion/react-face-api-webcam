@@ -1,0 +1,49 @@
+{
+  "name": "my-app",
+  "description": "create-my-app",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Robby",
+    "email": "ta7382@gmail.com"
+  },
+  "homepage": "https://github.com/explooosion/create-react-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/explooosion/create-react-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/explooosion/create-react-app/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "create",
+    "app"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "canvas": "^2.2.0",
+    "face-api.js": "^0.16.1",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-scripts": "2.1.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
