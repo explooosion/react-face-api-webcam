@@ -28,7 +28,6 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "canvas": "^2.2.0",
     "face-api.js": "^0.16.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",

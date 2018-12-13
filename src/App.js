@@ -3,7 +3,6 @@ import './App.scss';
 
 import Header from './components/Header';
 
-import * as canvas from 'canvas';
 import * as faceapi from 'face-api.js';
 
 let videoEl, overlay;

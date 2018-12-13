@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/explooosion/create-react-app/static/js/runtime~main.fb7e1fa5.js"
   },
   {
-    "revision": "50286c4b4eacc09ea15c",
-    "url": "/explooosion/create-react-app/static/js/main.50286c4b.chunk.js"
+    "revision": "cad8c9a704fa5444a704",
+    "url": "/explooosion/create-react-app/static/js/main.cad8c9a7.chunk.js"
   },
   {
-    "revision": "ce71dcc475595fc3a766",
-    "url": "/explooosion/create-react-app/static/js/1.ce71dcc4.chunk.js"
+    "revision": "7fd6e085918cee94dde8",
+    "url": "/explooosion/create-react-app/static/js/1.7fd6e085.chunk.js"
   },
   {
-    "revision": "50286c4b4eacc09ea15c",
+    "revision": "cad8c9a704fa5444a704",
     "url": "/explooosion/create-react-app/static/css/main.e620eaa9.chunk.css"
   },
   {
-    "revision": "30bcaf226c4bbf7e68a9321f8be2d6a5",
+    "revision": "13a61af0b8b3ae221d73ca51224e423a",
     "url": "/explooosion/create-react-app/index.html"
   }
 ];
