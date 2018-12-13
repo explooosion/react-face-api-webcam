@@ -54,9 +54,9 @@ class App extends Component {
 
   async changeFaceDetector(detector) {
     if (!this.isFaceDetectionModelLoaded()) {
-      await this.getCurrentFaceDetectionNet().load('/weights');
-      await faceapi.nets.faceLandmark68Net.load('/weights');
-      await faceapi.nets.faceRecognitionNet.load('/weights');
+      await this.getCurrentFaceDetectionNet().load('./weights');
+      await faceapi.nets.faceLandmark68Net.load('./weights');
+      await faceapi.nets.faceRecognitionNet.load('./weights');
     }
   }
 
